@@ -1,0 +1,6 @@
+{
+  "name": "drugsite 藥局藥物查詢與儲位管理系統",
+  "description": "專為藥局調劑台與庫存管理設計的響應式網頁應用，支援手機鏡頭條碼掃描、儲位快速定位與 Google Apps Script 雲端試算表雙向同步。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
